@@ -2,4 +2,5 @@
 #print(len(input("Digite o seu nome: ")))
 
 nome = input("digite seu nome: ")
-print(len(nome))
+quantidade_caracters = (len(nome))
+print(quantidade_caracters)
